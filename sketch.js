@@ -62,8 +62,8 @@ function setup(){
     division3 = new Divisions(240,626,5,300);
     division4 = new Divisions(320,626,5,300);
     division5 = new Divisions(400,626,5,300);
-    division6 = new Divisions(475,626,5,800);
-    division7 = new Divisions(4,626,5,800);
+    division6 = new Divisions(475,626,5,10000);
+    division7 = new Divisions(4,626,5,10000);
 
     plinko1 = new Plinko(50,50,10);
     plinko2 = new Plinko(100,50,10);
